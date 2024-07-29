@@ -1,0 +1,18 @@
+model array chat = 
+ const arr = [
+    {
+      idRoom: "habelxjeda",
+      arrMessage: {
+        id1: {
+          sender: "habel",
+          receiver: "jeda",
+          message: "halo",
+        },
+        id2: {
+          sender: "jeda",
+          receiver: "habel",
+          message: "hai",
+        },
+      },
+    },
+  ];
